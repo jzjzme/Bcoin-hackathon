@@ -122,7 +122,8 @@
         /**********************************************************/
         /*   ...  */
         /**********************************************************/
-        var top = Math.max($(window).height() / 2 - $("#header-body")[0].offsetHeight / 2, 0);
+        // var top = Math.max($(window).height() / 2 - $("#header-body")[0].offsetHeight / 2, 0);
+        var top = 0;
         $("#header-body").css('padding-top', top + "px").css('padding-bottom', (top - $('#header-navbar ').height()) + "px");
         $("#header-body").css('position', 'relative');
 
