@@ -41,7 +41,7 @@
     /* MAP HEIGHT                                             */
     /**********************************************************/
     var contactUsBody = function(){
-        var mapHeight = $('.contact-us-body').height();
+        var mapHeight = $('.our-featured-speaker-body').height();
         $(".map").css('min-height', mapHeight);
     }
 
@@ -254,7 +254,7 @@
         /* COUNT DOWN                                              */
         /***********************************************************/
         $('.count_down').countdown({
-            end_time: "2016/05/21 14:27:28 +0600",
+            end_time: "2018/04/06 18:00:00 -0800",
             wrapper: function(unit){
                 var wrpr = $('<div></div>').
                     addClass(unit.toLowerCase()+'_wrapper').
