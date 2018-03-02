@@ -16,8 +16,8 @@
  ********************************
  *
  *  Defult CSS
- *  
- *  
+ *
+ *
  */
 body {
   overflow-x: hidden !important;
@@ -225,8 +225,8 @@ h3 {
  ********************************
  *
  *  Header CSS
- *  
- *  
+ *
+ *
  */
 .header-background {
   background: url('../images/bg-1.jpg') top center fixed;
@@ -450,14 +450,14 @@ h3 {
 }
 .header-body h1 {
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #DDDDDD;
 }
 .header-body h2 {
   text-transform: uppercase;
   color: #FFFFFF;
 }
 .header-body p {
-  color: #FFFFFF;
+  color: #DDDDDD;
 }
 .header-body .pera {
   margin-top: 24px;
@@ -470,8 +470,8 @@ h3 {
  ********************************
  *
  *  About Our Event CSS
- *  
- *  
+ *
+ *
  */
 .about-our-event {
   position: relative;
@@ -525,8 +525,8 @@ h3 {
  ********************************
  *
  *  our featured speaker CSS
- *  
- *  
+ *
+ *
  */
 .our-featured-speaker {
   background: #323232;
@@ -553,8 +553,8 @@ h3 {
  ********************************
  *
  *  Scedule CSS
- *  
- *  
+ *
+ *
  */
 .scedule-background {
   background: url('../images/bg-3.jpg') top center fixed;
@@ -624,8 +624,8 @@ h3 {
  ********************************
  *
  *  Speakers CSS
- *  
- *  
+ *
+ *
  */
 .speakers {
   background: #323232;
@@ -654,8 +654,8 @@ h3 {
  ********************************
  *
  *  Pricing Tables CSS
- * 
- *  
+ *
+ *
  */
 .pricing-tables {
   background: #1f1e25;
@@ -728,8 +728,8 @@ h3 {
  ********************************
  *
  *  countdown CSS
- * 
- * 
+ *
+ *
  */
 .countdown-background {
   background: url('../images/bg-4.jpg') top center fixed;
@@ -773,7 +773,7 @@ h3 {
  ********************************
  *
  *  Sponsore CSS
- *  
+ *
  */
 .sponsore {
   background: #1f1e25;
@@ -792,8 +792,8 @@ h3 {
  ********************************
  *
  *  Collapse CSS
- *  
- *  
+ *
+ *
  */
 .collapse-area {
   background: #323232;
@@ -904,8 +904,8 @@ h3 {
  ********************************
  *
  *  Testimonial CSS
- *  
- *  
+ *
+ *
  */
 .testimonial {
   background: #1f1e25;
@@ -942,8 +942,8 @@ h3 {
  ********************************
  *
  *  Twitter Posts
- *  
- *  
+ *
+ *
  */
 .twitter-background {
   background: url('../images/bg-3.jpg') top center fixed;
@@ -990,8 +990,8 @@ h3 {
  ********************************
  *
  *  Contact Us CSS
- *  
- *  
+ *
+ *
  */
 .contact-us {
   position: relative;
@@ -1106,7 +1106,7 @@ footer .btn-top:hover {
  ********************************
  *
  *  header CSS
- *  
+ *
  */
 .blog-header .heading {
   padding-top: 0px;
@@ -1121,7 +1121,7 @@ footer .btn-top:hover {
  ********************************
  *
  *  Blog Body CSS
- *  
+ *
  */
 /*     blog-post CSS     */
 .blog-body {
@@ -1238,7 +1238,7 @@ aside .cate-all {
 ******************************************
 *
 *   OWL CAROUSEL CUSTOM CSS
-*    
+*
 */
 .owl-carousel {
   display: block !important;
@@ -1270,7 +1270,7 @@ aside .cate-all {
 ******************************************
 *
 *   FLEX SLIDER CSS
-*    
+*
 */
 a.next,
 a.prev {
