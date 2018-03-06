@@ -450,14 +450,14 @@ h3 {
 }
 .header-body h1 {
   text-transform: uppercase;
-  color: #DDDDDD;
+  color: #FFFFFF;
 }
 .header-body h2 {
   text-transform: uppercase;
   color: #FFFFFF;
 }
 .header-body p {
-  color: #CCCCCC;
+  color: #FFFFFF;
   font-weight: bold;
 }
 .header-body .pera {
@@ -486,7 +486,12 @@ h3 {
 .about-our-event-right {
   overflow: hidden;
 }
-.about-our-event-right .time {
+.about-our-event-right  {
+  margin-top: 180px !important;
+  margin-bottom: 20px !important;
+  
+}
+.time {
   margin-top: 20px !important;
   margin-bottom: 20px !important;
 }
