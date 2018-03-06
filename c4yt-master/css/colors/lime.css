@@ -54,6 +54,10 @@
 .background-right-overlay-color {
   background: -webkit-linear-gradient(left, rgba(0, 238, 174, 0.75) 10%, rgba(0, 118, 228, 0.75) 90%);
 }
+
+.background-gradient {
+  background: -webkit-linear-gradient(left, rgba(0, 218, 154, 0.9) 10%, rgba(0, 98, 208, 0.9) 90%);
+}
 /*
  ********************************
  *
