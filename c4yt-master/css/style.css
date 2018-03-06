@@ -457,7 +457,8 @@ h3 {
   color: #FFFFFF;
 }
 .header-body p {
-  color: #DDDDDD;
+  color: #CCCCCC;
+  font-weight: bold;
 }
 .header-body .pera {
   margin-top: 24px;
