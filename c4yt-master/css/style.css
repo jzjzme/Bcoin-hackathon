@@ -755,9 +755,9 @@ h3 {
   border-right: 0px solid #D0D0CF;
 }
 .time .counter {
-  color: #FFFFFF;
+  color: #DDDDDD;
   font-size: 70px;
-  font-weight: 300;
+  font-weight: bold;
   font-family: 'Oswald', sans-serif;
   display: block;
   text-align: center;
